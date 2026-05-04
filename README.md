@@ -24,11 +24,7 @@ This project visualizes how a spacecraft or rover manages power under changing e
 🚀 Features
 
 📈 Live Time-Series Visualization
-Battery level
-Solar input
-Power load
-Net power balance
-(Updates automatically like a stock market chart)
+Updates automatically like a stock market chart
 
 🤖 Autonomous Decision Engine
 Detects system state (Nominal, Caution, Warning, Critical)
